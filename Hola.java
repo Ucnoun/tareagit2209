@@ -1,1 +1,1 @@
-class Hola{}
+class Hola{int 18;}
